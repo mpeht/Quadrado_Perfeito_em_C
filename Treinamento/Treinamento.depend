@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596572220 source:c:\users\mpeht\documents\arquivoc\treinamento\main.c
+	<stdio.h>
+	<stdlib.h>
+
